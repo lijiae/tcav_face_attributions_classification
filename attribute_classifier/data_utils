@@ -1,0 +1,47 @@
+
+VGG2CelebA = {
+    "Sideburns": 'sideburns',
+    "Bald": 'bald',
+    "Goatee": 'goatee',
+    "Mustache": 'mustache',
+    "5 o Clock Shadow": '5_o_clock_shadow',
+    "Arched Eyebrows": 'arched_eyebrows',
+    "no beard": 'no_beard',
+    "Male": 'male',
+    "Black Hair": 'black_hair',
+    "High Cheekbones": 'high_cheekbones',
+    "Smiling": 'smiling',
+    "Oval Face": 'oval_face',
+    "Bushy Eyebrows": 'bushy_eyebrows',
+    "Young": 'young',
+    "Gray Hair": 'gray_hair',
+    "Brown Hair": 'brown_hair',
+    "Blond Hair": 'blond_hair',
+    "Chubby": 'chubby',
+    "Double Chin": 'double_chin',
+    "Big Nose": 'big_nose',
+    "Bags Under Eyes": 'bags_under_eyes',
+    "Bangs": 'bangs',
+    "Wavy Hair": 'wavy_hair',
+    "Big Lips": 'big_lips',
+    "Pointy Nose": 'pointy_nose',
+    "Receding Hairline": 'receding_hairline',
+}
+
+branched_name = ['blurry', 'sideburns', 'wearing_earrings', 'bald', 'goatee', 'mustache',
+                           '5_o_clock_shadow', 'arched_eyebrows', 'no_beard', 'heavy_makeup', 'male',
+                           'wearing_lipstick', 'black_hair', 'high_cheekbones', 'smiling',
+                           'mouth_slightly_open', 'oval_face', 'bushy_eyebrows', 'attractive',
+                           'young', 'gray_hair', 'brown_hair', 'blond_hair', 'pale_skin', 'chubby',
+                           'double_chin', 'big_nose', 'bags_under_eyes', 'wearing_necklace', 'wearing_necktie',
+                           'rosy_cheeks', 'bangs', 'wavy_hair', 'straight_hair', 'wearing_hat', 'big_lips',
+                           'narrow_eyes', 'pointy_nose', 'receding_hairline', 'eyeglasses']
+
+celeba_attribution=["5_o_Clock_Shadow", 'Arched_Eyebrows', 'Attractive', 'Bags_Under_Eyes',
+                    'Bald', 'Bangs', 'Big_Lips', 'Big_Nose', 'Black_Hair', 'Blond_Hair', 'Blurry', 'Brown_Hair',
+                    'Bushy_Eyebrows', 'Chubby' ,'Double_Chin', 'Eyeglasses', 'Goatee', 'Gray_Hair', 'Heavy_Makeup',
+                    'High_Cheekbones', 'Male', 'Mouth_Slightly_Open', 'Mustache', 'Narrow_Eyes', 'No_Beard', 'Oval_Face', 'Pale_Skin',
+                    'Pointy_Nose', 'Receding_Hairline', 'Rosy_Cheeks', 'Sideburns', 'Smiling', 'Straight_Hair',
+                    'Wavy_Hair', 'Wearing_Earrings', 'Wearing_Hat', 'Wearing_Lipstick', 'Wearing_Necklace', 'Wearing_Necktie', 'Young'
+                    ]
+
